@@ -1,0 +1,8 @@
+C:\Users\TObosi\OneDrive - CIFOR-ICRAF\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\EmployeeAPI.csproj.AssemblyReference.cache
+C:\Users\TObosi\OneDrive - CIFOR-ICRAF\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\EmployeeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TObosi\OneDrive - CIFOR-ICRAF\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\EmployeeAPI.AssemblyInfoInputs.cache
+C:\Users\TObosi\OneDrive - CIFOR-ICRAF\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\EmployeeAPI.AssemblyInfo.cs
+C:\Users\TObosi\OneDrive - CIFOR-ICRAF\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\EmployeeAPI.csproj.CoreCompileInputs.cache
+C:\Users\TObosi\OneDrive - CIFOR-ICRAF\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TObosi\OneDrive - CIFOR-ICRAF\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TObosi\OneDrive - CIFOR-ICRAF\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\net8.0\EmployeeAPI.sourcelink.json
