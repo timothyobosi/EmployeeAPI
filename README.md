@@ -1,5 +1,6 @@
-#API End Points design diagrams
-1.ERD
+#API End Points 
+##Design diagrams
+###1.ERD
 Entities-1- employee
 Attributes-EmployeeId(VARCHAR(50))
                       -EmployeeFirstName: string(VARCHAR(100))
