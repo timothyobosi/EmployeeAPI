@@ -1,7 +1,6 @@
-using EmployeeAPI.Data; //for EmployeeCOntext
-using EmployeeAPI.Models;// for Employee model
-using Microsoft.EntityFrameworkCore;//For EF Core extentions
-
+using EmployeeAPI.Data; // for EmployeeContext
+using EmployeeAPI.Models; // for Employee model
+using Microsoft.EntityFrameworkCore; // For EF Core extensions
 
 var builder = WebApplication.CreateBuilder(args);
 
